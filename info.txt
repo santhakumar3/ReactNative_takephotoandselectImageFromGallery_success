@@ -1,0 +1,5 @@
+video link :  https://youtu.be/cpRc-wItJNo?si=U1a3VRBggU5RZ0UL
+
+npmjs package link : https://www.npmjs.com/package/react-native-image-picker
+
+package need to download : npm i react-native-image-picker
